@@ -1,0 +1,7 @@
+kind,x,y,r,g,b,radius
+polyline,47,50,255,0,0,
+polyline,213,52,255,0,0,
+polyline,214,217,255,0,0,
+polyline,49,213,255,0,0,
+polyline,47,47,255,0,0,
+circle,129,127,0,255,0,41
