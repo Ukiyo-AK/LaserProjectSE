@@ -18,7 +18,6 @@ from .scene_tab import SceneTab
 from .models import SceneElement
 from .utils import color_to_code, code_to_color, circle_to_points
 
-# detect pandas availability (kept local here)
 try:
     import pandas as pd
     _HAS_PANDAS = True
